@@ -1,6 +1,9 @@
 Pacman clone made with MelonJS <http://melonjs.org/>
 This is free software
 
+Playable in here:
+http://juhanapaavola.github.io/pacmanclone/
+
 What there is:
 -Maze
 -Ghosts travel around, they look for junctions and turn randomly. Ghosts do not try to track player.
